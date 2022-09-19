@@ -1,0 +1,158 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+.header-color{
+	background-color: #0020F4;
+	height: 387.56px;
+}
+.logo{
+	width:113px;
+	height:65px;
+	margin-right: 450px;
+	vertical-align: middle;
+}
+.nav{
+	vertical-align: middle;
+}
+.navlist{
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.cont-style{
+	display: inline-block;
+	width: 160px;
+	height: 19px;
+	background-color: #FFFFFF;
+	border-radius: 28px;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	padding-left: 36px;
+	padding-right: 43px;
+}
+.li-contact{
+	display: inline block;
+	width: 81px;
+	height: 19px;
+	color: #171717;
+	font-size: 16px;
+}
+.nav,.nav-ul,.nav-ul li{
+	display: inline;
+	margin-right: 18px;
+}
+/*----------*/
+.about{
+	width: 975px;
+	display: block;
+	margin:0 auto;
+}
+.title-container,.container,.para-conteiner{
+	width: 975px;
+	margin: 0 auto;
+}
+.titlemain{
+	font-size:28px;
+	color:#171717;
+	margin-top:33px;
+	margin-bottom:60px;
+}
+.container img{
+	width:170px;
+	height: 170px;
+	display: inline-block;
+	margin-right: 21px;
+	margin-bottom: 60px;
+}
+.space{
+	margin-top:18px;
+	margin-bottom:18px;
+}
+p{
+	width: 771px;
+	margin: 0 auto;
+	font-size: 16px;
+	font-family: "ALK Life", sans-serif;
+}
+.more-info-style{
+	width: 341px;
+	height: 55px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 18px;
+	margin-top: 58px;
+	margin-bottom: 180px;
+	background-color: #0A22F4;
+	border-radius: 28px;
+}
+.more-info-btn{
+	font-size: 16px;
+	color: #FFFFFF;
+}
+/*---------------------*/
+.footercolor{
+	background-color: #0A22F4;
+	padding-top: 100px;
+}
+.footer-title{
+	color: #FFFFFF;
+	font-size: 32px;
+}
+.footer-para{
+	width: 463px;
+	display: inline-block;
+	text-align: left;
+	color: #FFFFFF;
+	font-size: 16px;
+	margin-top: 30px;
+}
+.map{
+	width: 463px;
+	height: 197px;
+	margin-top: 58px;
+	margin-bottom: 58px;
+	border-radius: 15px;
+}
+.footer-div{
+	margin-top: 70px;
+	display: inline;
+}
+.footer-li{
+	display: inline;
+	color: #FFFFFF;
+	font-size: 22px;}
+.footer-uln,.footer-ule{
+	display: inline;
+	margin-right: 80px;
+	list-style-image: url(img/Group 77.svg);
+}
+.footer-fin{
+	vertical-align: middle;
+	margin-top: 100px;
+}
+.heart{
+	vertical-align: middle;
+}
+.footerlogo{
+	vertical-align: middle;
+}
+
+.footer-fin span{
+	margin-right: 15px;
+	font-size: 16px;
+	color: #FFFFFF;
+	vertical-align: middle;
+}
+.footer-spacer{
+	margin-left: 500px;
+}
+
+
+
+
+
